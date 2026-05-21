@@ -4,7 +4,7 @@
 #include "usart.h"
 #include "tracking.h"
 
-//  我是马千喜
+//  我是马千喜 傻逼
 
 
 /* 巡线模块启动前的等待时间。
